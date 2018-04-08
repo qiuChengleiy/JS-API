@@ -10,7 +10,7 @@
 * [Element节点](element.md)
 
 ### CSS操作
-* [类名操作(style-name.md)
+* [类名操作](style-name.md)
 * [style操作](style.md)
 
 ### 对象
