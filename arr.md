@@ -17,7 +17,7 @@ a.length  //长度
 Array.isArray(a)   //用来判断一个值是否为数组
 ```
 
-*Array实例的方法
+* Array实例的方法
 
 ```js
 a.valueof()   //返回数组本身
