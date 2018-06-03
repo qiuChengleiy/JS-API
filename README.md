@@ -1,15 +1,16 @@
-# Js学习笔记 整理JS相关知识点和API 涉及到它的一些框架 方便复习 学习建议还是看文档~~~   [持续更新]
+# Js学习笔记 [持续更新]
+ 整理JS相关知识点和API 涉及到它的一些框架 方便复习 学习建议还是看文档~~~  
 
-### 已完成
+### 已整理好的内容
 * <a href="js">JS相关API整理</a>
 * <a href="jq">JQ相关API整理</a>
 * <a href="ts">typeScript学习笔记(还在更新中)</a>
 * <a href="react">react学习笔记</a>
 * <a href="vue">vue 学习笔记</a>
 
-<a name="js"></a>
+<a name="js">
 ## 原生javascript
-
+</a>
 ### 节点
 * [节点属性](jiedian.md)
 * [操作](j_caozuo.md)
@@ -29,8 +30,9 @@
 * [JSON对象](json.md)
 * [console对象](console.md)
 
-<a name="jq"></a>
+<a name="jq">
 ## JQuery
+</a>
 ```js
 //dom 操作
 	$("div").addClass('box');
@@ -359,9 +361,9 @@ $('textarea').attr({
 ```
 
 
-<a name="ts"></a>
+<a name="ts">
 ## TypeScript 
-
+</a>
 
 ```js
 
@@ -717,10 +719,10 @@ g.interval = 5.0;
 
 ```
 
-<a name="react"></a>
+<a name="react">
 ### React
-
-```html
+</a>
+```js
 1.react 渲染组件时只能渲染创建DOM到根节点上。
    let h1 = React.createElement(
             'h1',
