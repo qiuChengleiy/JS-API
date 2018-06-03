@@ -8,9 +8,9 @@
 * <a href="react">react学习笔记</a>
 * <a href="vue">vue 学习笔记</a>
 
-<a name="js">
+<font id="js">
 ## 原生javascript
-</a>
+</font>
 ### 节点
 * [节点属性](jiedian.md)
 * [操作](j_caozuo.md)
@@ -30,9 +30,7 @@
 * [JSON对象](json.md)
 * [console对象](console.md)
 
-<a name="jq">
 ## JQuery
-</a>
 ```js
 //dom 操作
 	$("div").addClass('box');
