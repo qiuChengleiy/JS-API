@@ -31,21 +31,27 @@
 * [JSON对象](json.md)
 * [console对象](console.md)
 
-### [js设计模式](./docjsdesign.js)
+### js设计模式
+
+* [js设计模式](./docjsdesign.js)
+
+### js promise
+[js promise](./doc/promise.js)
 
 
-### [js promise](./doc/promise.js)
+### JQuery
+* [JQuery](./doc/jq.js)
 
 
-## [JQuery](./doc/jq.js)
+### TypeScript
+ * [TypeScript](./doc/ts.js) 
+
+### React
+* [React](./doc/react.js)
 
 
-## [TypeScript](./doc/ts.js) 
-
-### [React](./doc/react.js)
-
-
-### [vue](./doc/vue.js)
+### vue
+* [vue](./doc/vue.js)
 
 
 
