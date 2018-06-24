@@ -33,25 +33,25 @@
 
 ### js设计模式
 
-* [js设计模式](./docjsdesign.js)
+* [js设计模式](/docjsdesign.js)
 
 ### js promise
-[js promise](./doc/promise.js)
+[js promise](/doc/promise.js)
 
 
 ### JQuery
-* [JQuery](./doc/jq.js)
+* [JQuery](/doc/jq.js)
 
 
 ### TypeScript
- * [TypeScript](./doc/ts.js) 
+ * [TypeScript](/doc/ts.js) 
 
 ### React
-* [React](./doc/react.js)
+* [React](/doc/react.js)
 
 
 ### vue
-* [vue](./doc/vue.js)
+* [vue](/doc/vue.js)
 
 
 
