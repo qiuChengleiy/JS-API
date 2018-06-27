@@ -1,0 +1,41 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tests": "mocha",
+    "cover": "istanbul cover _mocha",
+    "browser": "mocha-phantomjs ./test/test.html",
+    "init": "karma init",
+    "dev": "karma start karma.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-istanbul": "^4.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "chai": "^4.1.2",
+    "istanbul": "^0.4.5",
+    "engine.io": "^3.2.0",
+    "istanbul": "^0.4.5",
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.4",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage": "^1.1.2",
+    "karma-jasmine": "^1.1.2",
+    "karma-mocha": "^1.3.0",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "mime-db": "^1.34.0",
+    "mime-types": "^2.1.18",
+    "mocha": "^5.2.0",
+    "negotiator": "^0.6.1",
+    "wordwrap": "^1.0.0",
+    "karma-webpack": "^2.0.9",
+    "webpack": "^3.10.0"
+  }
+}

@@ -3,12 +3,13 @@
 
 ### 已整理好的内容  排版不是很细心 全为学习实际记录 见谅~~ 篇幅稍长 按需查找~~~
 * <a href="#">JS相关API整理</a>
-* <a href="#">JS设计模式学习笔记</a>
-* <a href="#">JS Promise笔记</a>
-* <a href="#">JQ相关API整理</a>
-* <a href="#">typeScript学习笔记(还在更新中)</a>
-* <a href="#">react学习笔记</a>
-* <a href="#">vue 学习笔记</a>
+* <a href="/docjsdesign.js">JS设计模式学习笔记</a>
+* <a href="/doc/promise.js">JS Promise笔记</a>
+* <a href="/doc/jq.js">JQ相关API整理</a>
+* <a href="/doc/ts.js">typeScript学习笔记(还在更新中)</a>
+* <a href="/doc/react.js">react学习笔记</a>
+* <a href="/doc/vue.js">vue 学习笔记</a>
+* <a href="test.md">单元测试学习</a>
 
 ## 原生javascript
 
@@ -56,6 +57,10 @@
 ### 前端工具
 * [webpack-开发模式](/doc/webpack.config.js)
 * [webpack-生产模式](/doc/webpack.production.config.js)
+
+
+### 单元测试
+* [单元测试](test.md)
 
 ### 始终坚信
 敢于尝试的你 其实已经进步了
